@@ -1,2 +1,1 @@
-# sosmed
-html css sosmed
+membuat social network menggunakan html & css
